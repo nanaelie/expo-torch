@@ -1,16 +1,33 @@
-# expo-torch
-A minimalist React Native app built with Expo that toggles the device flashlight on/off and includes an optional SOS blinking mode.
+# Torch
 
-## Get started
+Torch is a simple mobile application built with **Expo** and **React Native** that lets you turn your phone's flashlight on and off.  
 
-1. Install dependencies
+## Features
+- Toggle flashlight with a tap  
+- Alert mode (blinking effect)  
+- Minimal and intuitive interface  
+- Works on both Android and iOS  
 
-   ```bash
-   npm install
-   ```
+## Installation
+```bash
+git clone https://github.com/nanaelie/expo-torch.git
+cd expo-torch
+npm install
+npx expo start
+```
 
-2. Start the app
+Scan the QR code with **Expo Go** to run the app on your device.
 
-   ```bash
-   npx expo start
-   ```
+## Tech Stack
+
+* Expo
+* React Native
+
+## Contributing
+
+Contributions are welcome!
+Feel free to open issues or submit pull requests to improve the app.
+
+## License
+
+Apache License 2.0
